@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "repro_peldermaga",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32748" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "node/12866596047", "@id": "node/12866596047", "amenity": "ferry_terminal", "ferry": "yes", "name": "Manggar", "public_tra": "stop_position" }, "geometry": { "type": "Point", "coordinates": [ 865821.101275587221608, 9684755.222654705867171 ] } }
+]
+}
